@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MovieDicoding3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="daily_reminder_notification">Daily Reminder Notification</string>
+    <string name="upcoming_reminder_notification">Upcoming Reminder Notification</string>
+    <string name="setting_locale">Setting Locale</string>
+    <string name="change_your_phone_localization">Change your phone localization</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="cari">cari</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+
+    <string name="key_reminder_daily">reminder_daily</string>
+    <string name="key_reminder_upcoming">reminder_upcoming</string>
+    <string name="key_setting_locale">setting_locale</string>
+
+    <string name="label_daily_reminder">Daily Reminder Notification is now</string>
+    <string name="label_upcoming_reminder">Upcoming Reminder Notification is now</string>
+    <string name="label_activated">activated!</string>
+    <string name="label_deactivated">deactivated!</string>
+
+    <string name="label_daily_reminder_title">Daily Reminder Notification</string>
+    <string name="label_daily_reminder_summary">Turn on/off daily reminder</string>
+
+    <string name="label_upcoming_reminder_title">Upcoming Reminder Notification</string>
+    <string name="label_upcoming_reminder_summary">Turn on/off upcoming reminder</string>
+
+    <string name="label_setting_locale_title">Setting Locale</string>
+    <string name="label_setting_locale_summary">Change your phone localization</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
